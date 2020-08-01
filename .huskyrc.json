@@ -1,5 +1,7 @@
 {
-  "hooks": {
-    "pre-coomit": "lint-staged"
+  "husky": {
+    "hooks": {
+      "pre-coomit": "lint-staged"
+    }
   }
 }
